@@ -3,6 +3,7 @@ You can host a static website (HTML, CSS, JavaScript) on Amazon S3 without needi
 
 🛠️ Step 1: Create an S3 Bucket
 1️⃣ Go to the AWS S3 Console → S3 Console
+
 2️⃣ Click "Create Bucket"
 3️⃣ Enter a Bucket Name (e.g., wedder-burn-website)
 Bucket name must be unique globally
