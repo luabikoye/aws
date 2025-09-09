@@ -91,7 +91,7 @@ Resources:
       LaunchTemplateData:
         InstanceType: !Ref InstanceType
         KeyName: !Ref KeyName
-        ImageId: ami-0c55b159cbfafe1f0 # Amazon Linux 2 AMI (us-east-1)
+        ImageId: ami-04b70fa74e45c3917 # Amazon Linux 2 AMI (us-east-1)
         SecurityGroupIds:
           - !Ref WebSecurityGroup
         UserData:
