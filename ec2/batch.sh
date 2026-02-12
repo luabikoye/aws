@@ -1,5 +1,6 @@
 #!/bin/bash
 
+     sudo apt update
      sudo apt-get install -y apache2 wget vim unzip
      sudo mkdir -p /tmp/site
       cd /tmp/site
